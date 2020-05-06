@@ -1,0 +1,13 @@
+D:\Doop\Lv3\LV3-Dizajn-OOP\LV3Doop\LV3Doop\bin\Debug\netcoreapp3.1\LV3Doop.exe
+D:\Doop\Lv3\LV3-Dizajn-OOP\LV3Doop\LV3Doop\bin\Debug\netcoreapp3.1\LV3Doop.deps.json
+D:\Doop\Lv3\LV3-Dizajn-OOP\LV3Doop\LV3Doop\bin\Debug\netcoreapp3.1\LV3Doop.runtimeconfig.json
+D:\Doop\Lv3\LV3-Dizajn-OOP\LV3Doop\LV3Doop\bin\Debug\netcoreapp3.1\LV3Doop.runtimeconfig.dev.json
+D:\Doop\Lv3\LV3-Dizajn-OOP\LV3Doop\LV3Doop\bin\Debug\netcoreapp3.1\LV3Doop.dll
+D:\Doop\Lv3\LV3-Dizajn-OOP\LV3Doop\LV3Doop\bin\Debug\netcoreapp3.1\LV3Doop.pdb
+D:\Doop\Lv3\LV3-Dizajn-OOP\LV3Doop\LV3Doop\obj\Debug\netcoreapp3.1\LV3Doop.csprojAssemblyReference.cache
+D:\Doop\Lv3\LV3-Dizajn-OOP\LV3Doop\LV3Doop\obj\Debug\netcoreapp3.1\LV3Doop.csproj.CoreCompileInputs.cache
+D:\Doop\Lv3\LV3-Dizajn-OOP\LV3Doop\LV3Doop\obj\Debug\netcoreapp3.1\LV3Doop.AssemblyInfoInputs.cache
+D:\Doop\Lv3\LV3-Dizajn-OOP\LV3Doop\LV3Doop\obj\Debug\netcoreapp3.1\LV3Doop.AssemblyInfo.cs
+D:\Doop\Lv3\LV3-Dizajn-OOP\LV3Doop\LV3Doop\obj\Debug\netcoreapp3.1\LV3Doop.dll
+D:\Doop\Lv3\LV3-Dizajn-OOP\LV3Doop\LV3Doop\obj\Debug\netcoreapp3.1\LV3Doop.pdb
+D:\Doop\Lv3\LV3-Dizajn-OOP\LV3Doop\LV3Doop\obj\Debug\netcoreapp3.1\LV3Doop.genruntimeconfig.cache

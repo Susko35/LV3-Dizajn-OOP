@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LV3Doop/1.0.0": {
+        "runtime": {
+          "LV3Doop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LV3Doop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
